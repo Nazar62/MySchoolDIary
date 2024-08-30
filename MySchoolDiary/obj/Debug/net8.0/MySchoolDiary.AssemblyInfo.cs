@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySchoolDiary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fa3c59cb6a0566a5ba65c65a10c44d83a73d5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e7b21f000c5ee04ea96da5e78d2e00cbaaefa2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySchoolDiary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySchoolDiary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

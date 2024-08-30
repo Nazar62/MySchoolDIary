@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj": {}
+    "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj": {}
   },
   "projects": {
-    "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj": {
+    "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
+        "projectUniqueName": "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
         "projectName": "MySchoolDiary",
-        "projectPath": "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
+        "projectPath": "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
         "packagesPath": "/home/nazar/.nuget/packages/",
-        "outputPath": "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/obj/",
+        "outputPath": "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nazar/.nuget/NuGet/NuGet.Config"

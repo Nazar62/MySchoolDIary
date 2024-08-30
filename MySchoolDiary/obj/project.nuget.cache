@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VxZ6lT/OfbdLWgxClkCFxS4VFhM5tZTSxVygiIWP8YyzYsKnFkytK22t4GnBj0tltWXcTb/lA3md6WOucZs27Q==",
+  "dgSpecHash": "yRzY/V6AneCyZhzq4wcfrCWhXzH+abLCCo/0ZNjie9ljyPcCqrdh2EGUQg1gqZuTL4Y9ZWvGFhPwgy+/R0VbVg==",
   "success": true,
-  "projectFilePath": "/media/nazar/Новий том/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
+  "projectFilePath": "/mnt/sdb1/vs/projects/MySchoolDiary/MySchoolDiary/MySchoolDiary/MySchoolDiary.csproj",
   "expectedPackageFiles": [
     "/home/nazar/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/nazar/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

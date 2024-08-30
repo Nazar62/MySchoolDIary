@@ -155,10 +155,10 @@ namespace MySchoolDiary.Controllers
             var userRoles = _userManager.GetRolesAsync(user).Result;
             if(userRoles.Count == 0)
             {
-                var roleAdded = _userManager.AddToRoleAsync(user, "Student");
+                var roleAdded = await _userManager.AddToRoleAsync(user, "Student");
                 await _context.SaveChangesAsync();
             }
-            var roles = _userManager.GetRolesAsync(user).Result;
+            var roles = await _userManager.GetRolesAsync(user);
             List<Claim> claims = new List<Claim>
             {
                 new Claim("Id", user.Id),
